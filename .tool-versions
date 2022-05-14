@@ -1,0 +1,4 @@
+golang 1.18
+mockery 2.12.2
+mage 1.13.0
+protoc 3.20.1
